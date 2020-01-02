@@ -1,6 +1,6 @@
 # c_plus_plus_tools
 demo for json.hpp
-'
+~~
 #include "json.hpp"
 #include <string>
 #include <iostream>
@@ -23,4 +23,4 @@ int main(){
   cout << item.dump(4) << endl;
   return 0;
 }
-'
+~~~
