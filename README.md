@@ -1,6 +1,6 @@
 # c_plus_plus_tools
 demo for json.hpp
-~~~
+~~~cpp
 #include "json.hpp"
 #include <string>
 #include <iostream>
